@@ -1006,7 +1006,7 @@
             "filter": "dkic"
           },
           "item": {
-            "filter": "Check Log SSH - BEE"
+            "filter": ""
           },
           "itemTag": {
             "filter": "Log SSH Servidor"
@@ -4130,5 +4130,5 @@
   "timezone": "America/Sao_Paulo",
   "title": "Monitoramento RB",
   "uid": "3af8cb30-a6d5-4c85-a012-fea153978d0c",
-  "version": 26
+  "version": 27
 }
